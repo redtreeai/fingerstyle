@@ -43,7 +43,7 @@
 请尊重开发者的劳动成果。 另外，欢迎喜欢的小伙伴给个小星星，支持一下，
 
 也欢迎fork.
-
+(才发现效果图丢失了呢。。。。，不小心把储存筒删除了)
 ![](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/webwxgetmsgimg%20%284%29.jpg)
 ![](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/webwxgetmsgimg%20%285%29.jpg)
 
